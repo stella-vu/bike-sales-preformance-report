@@ -5,6 +5,7 @@ An interactive **Tableau report** analyzing **bike sales performance in December
 This project explores how sales growth was driven primarily by **higher-value product purchases rather than increased sales volume**, revealing a shift in customer purchasing behavior toward **higher-priced bikes and accessories**.
 
 <img src="report.bike_sales_performance.gif" alt="Alt text" width="800px" height="700px">
+
 ---
 
 ## 📊 Key Insights
